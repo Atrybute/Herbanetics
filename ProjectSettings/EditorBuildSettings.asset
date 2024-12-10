@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/---Scenes/MainMenu.unity
+    guid: 6de606b1d296dda4b9cf984a2c7bd465
+  - enabled: 1
+    path: Assets/---Scenes/HelpTab.unity
+    guid: fed0c33dbbf9b914cb48bec621cf1900
+  - enabled: 1
+    path: Assets/---Scenes/Level_1.unity
+    guid: 38e45f4f6338b5049ad5343c6b265722
+  - enabled: 1
+    path: Assets/---Scenes/Level_2.unity
+    guid: 6dc265e688a84d34ba58fa5ad3380588
+  - enabled: 1
+    path: Assets/---Scenes/Level_3.unity
+    guid: 08fd228b02807ef4fa28a3ab5801c472
+  - enabled: 1
+    path: Assets/---Scenes/Level_4.unity
+    guid: 22f2d91c0a8d9ce44b5f9562e6d7f5ad
+  - enabled: 1
+    path: Assets/---Scenes/Level_5-Mermaid.unity
+    guid: 9329cd582fb3c2641b004b2394462fc1
+  - enabled: 1
+    path: Assets/---Scenes/Level_5.1-Groot.unity
+    guid: 38fbc292a6d4388498a4b14bc3f26253
+  - enabled: 1
+    path: Assets/---Scenes/Level_2.2-Tokoloshe.unity
+    guid: 9248d4fc1a4e041438db468b49f259d9
+  - enabled: 1
+    path: Assets/---Scenes/Level_2.1-PinkyPinky.unity
+    guid: ab1f600803a161849a85340197178002
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: 9563a05591605fa44a7c5d9cf7e2996f, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: f706efb28a18146de8228fe18b860dae,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 95419706b1444604bb56e811cf1522f6, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 30069ce2d880ce64fa981e5a9139fd70, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 45d47fbde3ff243079a9ed872eb51a89,
+      type: 2}
