@@ -13,6 +13,6 @@ public class OpenLink : MonoBehaviour
         #endif
     }
 
-    /*[DllImport("__Internal")]
-    private static extern void OpenTab(string url);*/
+    [DllImport("__Internal")]
+    private static extern void OpenTab(string url);
 }

@@ -144,7 +144,10 @@ PlayerSettings:
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
   bundleVersion: 1.0.4
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 11400000, guid: 45d47fbde3ff243079a9ed872eb51a89, type: 2}
+  - {fileID: 11400000, guid: 95419706b1444604bb56e811cf1522f6, type: 2}
+  - {fileID: 11400000, guid: 9563a05591605fa44a7c5d9cf7e2996f, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -835,7 +838,7 @@ PlayerSettings:
   webGLMemoryLinearGrowthStep: 16
   webGLMemoryGeometricGrowthStep: 0.2
   webGLMemoryGeometricGrowthCap: 96
-  webGLPowerPreference: 2
+  webGLPowerPreference: 0
   scriptingDefineSymbols:
     Android: DOTWEEN
     EmbeddedLinux: DOTWEEN
